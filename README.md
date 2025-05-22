@@ -8,6 +8,11 @@
 
 ---
 
+##envirometn
+Composer version 2.8.8
+PHP version 8.2.12
+
+
 ## 🧾 Deskripsi Proyek
 
 Sistem Penilaian Siswa adalah aplikasi berbasis Laravel yang dirancang untuk membantu guru dan kepala sekolah dalam mengelola data nilai siswa. Proyek ini mendukung banyak peran (admin, guru, kepala sekolah, siswa) dan menyediakan fitur CRUD lengkap, serta ekspor data ke Excel.
@@ -33,12 +38,13 @@ Sistem Penilaian Siswa adalah aplikasi berbasis Laravel yang dirancang untuk mem
 
 ## 👤 Role & Login
 
-| Role        | Username / Email         | Password  |
-|-------------|--------------------------|-----------|
-| Admin       | `admin@example.com`      | `test123` |
-| Guru        | `guru@example.com`       | `test123` |
-| Kepsek      | `kepsek@example.com`     | `test123` |
-| Siswa       | `siswa@example.com`      | `test123` |
+| Role        | NIP/NIS                   | Password     |
+|-------------|--------------------------|---------------|
+| Admin       | `123123123`              | `test123`     |
+| Guru        | `198305162023212006`     | `test123`     |
+| Kepsek      | `197310221996032002`     | `test123`     |
+| Siswa       | `NIS1001`                | `password123` |
+| Guru Pai    | `197507052022211002`     | `test123`     |
 
 > ✳️ *Data login disesuaikan dengan seeder awal atau data manual pada database.*
 
@@ -77,7 +83,6 @@ cd penilaian_siswa
 
 # Install dependency
 composer install
-npm install && npm run dev
 
 # Copy environment file & generate app key
 cp .env.example .env
@@ -147,8 +152,8 @@ Proyek ini menggunakan lisensi [MIT License](https://opensource.org/licenses/MIT
 ## 📫 Kontak
 
 > Dibuat oleh **Ryan Ari**  
-> 🌐 GitHub: [@ryanariw](https://github.com/ryanariw)  
-> ✉️ Email: ryanari545@gmail.com
+> 🌐 GitHub: [@PeaceMaker2318](https://github.com/PeaceMaker2318)  
+> ✉️ Email: akmalkhatami2318@gmail.com
 
 ---
 
