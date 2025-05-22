@@ -151,7 +151,7 @@ Proyek ini menggunakan lisensi [MIT License](https://opensource.org/licenses/MIT
 
 ## 📫 Kontak
 
-> Dibuat oleh **Ryan Ari**  
+> Dibuat oleh **AKMALKHAT**  
 > 🌐 GitHub: [@PeaceMaker2318](https://github.com/PeaceMaker2318)  
 > ✉️ Email: akmalkhatami2318@gmail.com
 
